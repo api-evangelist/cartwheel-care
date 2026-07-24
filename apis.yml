@@ -1,8 +1,27 @@
 aid: cartwheel-care
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cartwheel-care.png
 name: Cartwheel Care
-description: 'Cartwheel Care is a company surfaced as a portfolio company of general-catalyst and added
-  to the API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Cartwheel (Cartwheel Care) is a school-based youth mental health provider
+  that partners with K-12 school districts to deliver rapid-access, evidence-based
+  therapy and psychiatric care to students. Through licensed clinicians it offers individual
+  and group therapy, medication management, and parent guidance, with Care Coordinators
+  contacting families within 24 hours of a school referral and initial appointments
+  typically available within 7-10 days; a course of care generally lasts two to six
+  months. The company is backed by General Catalyst and operates across 25+ school
+  districts in multiple states. Cartwheel publishes no public API or developer surface;
+  its software footprint is a school- and family-facing web application at app.cartwheel.org,
+  hosted on the HIPAA-compliant Aptible platform.'
 url: https://raw.githubusercontent.com/api-evangelist/cartwheel-care/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +31,34 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Healthcare
+- Mental Health
+- Behavioral Health
+- Telehealth
+- Youth
+- Education
 apis: []
+common:
+- type: Website
+  url: https://www.cartwheel.org/
+- type: Login
+  url: https://app.cartwheel.org/
+- type: PrivacyPolicy
+  url: https://docs.google.com/document/d/1l5gOrq96EgB_h1USO1nULtEYDi0Zvj8SnhP2ieI9VHQ/edit
+- type: TermsOfService
+  url: https://docs.google.com/document/d/1dpH5f_QRildgG1Kg8faBJGfGyltOuZo-iIJSe9UWAdg/edit
+- type: Careers
+  url: https://jobs.gem.com/cartwheel-1
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
