@@ -34,6 +34,9 @@ description: 'Cartwheel (Cartwheel Care) is a school-based youth mental health p
   its software footprint is a school- and family-facing web application at app.cartwheel.org,
   hosted on the HIPAA-compliant Aptible platform.'
 url: https://raw.githubusercontent.com/api-evangelist/cartwheel-care/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Cartwheel publishes no public API or developer surface; its software footprint is a school- and family-facing web application at app.cartwheel.org, hosted on the HIPAA-compliant Aptible platform."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
