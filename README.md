@@ -64,6 +64,71 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cartwheel Care is a company surfaced as a portfolio company of general-catalyst and added to the API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting the enrichment pipeline.
+Cartwheel (Cartwheel Care) is a school-based youth mental health provider that partners with K-12 school districts to deliver rapid-access, evidence-based therapy and psychiatric care to students. Through licensed clinicians it offers individual and group therapy, medication management, and parent guidance, with Care Coordinators contacting families within 24 hours of a school referral and initial appointments typically available within 7-10 days; a course of care generally lasts two to six months. The company is backed by General Catalyst and operates across 25+ school districts in multiple states. Cartwheel publishes no public API or developer surface; its software footprint is a school- and family-facing web application at app.cartwheel.org, hosted on the HIPAA-compliant Aptible platform.
 
-Backed by: general-catalyst
+**Areas:** Company · Healthcare · Mental Health · Behavioral Health · Telehealth · Youth · Education
+
+## Cartwheel Care on APIs.io
+
+Everything profiled for Cartwheel Care is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cartwheel-care/](https://apis.io/providers/cartwheel-care/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.cartwheel.org/)
+- [Terms of service](https://docs.google.com/document/d/1dpH5f_QRildgG1Kg8faBJGfGyltOuZo-iIJSe9UWAdg/edit)
+- [Privacy policy](https://docs.google.com/document/d/1l5gOrq96EgB_h1USO1nULtEYDi0Zvj8SnhP2ieI9VHQ/edit)
+
+## API Evangelist rating
+
+**Kin Score 9.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 27.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 6.3** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cartwheel-care/](https://apis.io/providers/cartwheel-care/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cartwheel Care: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cartwheel-care/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
